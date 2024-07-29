@@ -1,21 +1,22 @@
 <CiscoIPPhoneDirectory>
+<Title>Cisco_Directory</Title>
 
 <DirectoryEntry>
-<Name>Mohamed</Name>
-<Telephone>7002</Telephone>
-<Telephone>7002@192.168.200.11</Telephone>
+  <Name>Mohamed</Name>
+  <Telephone>7002</Telephone>
+  <Telephone>7002@192.168.200.11</Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Islam</Name>
-<Telephone>7003</Telephone>
-<Telephone>7003@192.168.200.11</Telephone>
+  <Name>Islam</Name>
+  <Telephone>7003</Telephone>
+  <Telephone>7003@192.168.200.11</Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Ayaa</Name>
-<Telephone>7004</Telephone>
-<Telephone>sip:7004@192.168.200.11</Telephone>
+  <Name>Ayaa</Name>
+  <Telephone>7004</Telephone>
+  <Telephone>sip:7004@192.168.200.11</Telephone>
 </DirectoryEntry>
 
 </CiscoIPPhoneDirectory>
